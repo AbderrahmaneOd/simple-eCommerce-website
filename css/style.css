@@ -829,8 +829,9 @@ button {
   float: left;
   background-color: #252525;
   height: auto;
-  background-size: 100%;
+  
   padding-bottom: auto;
+
 }
 
 .footer_logo {
